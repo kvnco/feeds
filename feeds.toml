@@ -1,3 +1,6 @@
+[default]
+timeout = 120
+
 [vaureal_avenir]
 title = "Vauréal - à venir"
 url = "https://www.vaureal.fr/agenda/a-venir"
