@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvnco.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-23T11:42:52.137Z</updated>
+    <updated>2021-08-25T05:37:21.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[26 aoû
@@ -28,7 +28,7 @@ Contes interactifs (Vauréal - à venir)]]></title>
 Fouilles archéologiques (Vauréal - à venir)]]></title>
         <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/fouilles-archeologiques</id>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/fouilles-archeologiques"/>
-        <updated>2021-08-23T11:42:51.358Z</updated>
+        <updated>2021-08-23T11:42:51.355Z</updated>
         <content type="html"><![CDATA[Du 16 août au 3 septembre, le Service départemental d’archéologique du Val d’Oise (SDAVO) organise de nouvelles fouilles sur le site néolithique de l’Allée couverte. Deux temps de rencontre avec les archéologues sont proposés sur le site les&nbsp;jeudi 26 août et&nbsp;mercredi 1er septembre.]]></content>
     </entry>
     <entry>
@@ -39,6 +39,15 @@ Le Jardin école de Vauréal (Vauréal - à venir)]]></title>
         <link href="https://www.vaureal.fr/nature-en-ville/parcs-et-jardins/le-jardin-ecole-de-vaureal"/>
         <updated>2021-08-23T11:42:51.360Z</updated>
         <content type="html"><![CDATA[Reprise du jardin école porté par la Ville, en partenariat avec la cellule Biodiversité de la Communauté d’agglomération et l’association b.a-BA...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[04 sep
+
+Petit déjeuner citoyen (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/petit-dejeuner-citoyen</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/petit-dejeuner-citoyen"/>
+        <updated>2021-08-25T05:37:20.665Z</updated>
+        <content type="html"><![CDATA[Le service Démocratie participative vous donne rendez-vous autour d’un petit déjeuner pour vous présenter l’ensemble de ses animations.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[04 sep
@@ -59,12 +68,21 @@ Don du sang (Vauréal - à venir)]]></title>
         <content type="html"><![CDATA[L'Etablissement Français du Sang (EFS) organise une nouvelle collecte de sang, un acte généreux, solidaire et bénévole qui permet de soigner plus d'un million de malades chaque année en France.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[07 sep
+
+Gratiféria : réunion de préparation (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/gratiferia-reunion-de-preparation</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/gratiferia-reunion-de-preparation"/>
+        <updated>2021-08-25T05:37:20.677Z</updated>
+        <content type="html"><![CDATA[La prochaine Gratiféria, marché 100 % gratuit où chacun peut donner ce qu'il souhaite et/ou s'approprier ce qu'il veut (la seule monnaie acceptée est le sourire) aura lieu le 27 novembre prochain. Si vous souhaitez participer à cet événement, rendez-vous à la réunion de préparation le 7 septembre pour échanger nos idées !]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[08 sep
 
-Dans si t'es (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/dans-si-tes</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/dans-si-tes"/>
-        <updated>2021-08-23T11:42:51.368Z</updated>
+Danse si t'es (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/danse-si-tes</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/danse-si-tes"/>
+        <updated>2021-08-25T05:37:20.677Z</updated>
         <content type="html"><![CDATA[Le festival des arts de la rue et du cirque CERGY SOIT ! investit les villes de l’agglomération du 28 août au 26 septembre avec une nouvelle formule itinérante. Rendez-vous à Vauréal sur l’aire de jeux du Belvédère pour "Danse si t’es" par le collectif Hedo, un spectacle singulier à ciel ouvert par quatre danseurs(es) venus de Guadeloupe. Armés de leurs avions en papier, ils vont faire face aux écrans qui nous dirigent.]]></content>
     </entry>
     <entry>
@@ -82,7 +100,7 @@ Salon des Associations (Vauréal - à venir)]]></title>
 Le Jardin école de Vauréal (Vauréal - à venir)]]></title>
         <id>https://www.vaureal.fr/nature-en-ville/parcs-et-jardins/le-jardin-ecole-de-vaureal</id>
         <link href="https://www.vaureal.fr/nature-en-ville/parcs-et-jardins/le-jardin-ecole-de-vaureal"/>
-        <updated>2021-08-23T11:42:51.374Z</updated>
+        <updated>2021-08-23T11:42:51.360Z</updated>
         <content type="html"><![CDATA[Reprise du jardin école porté par la Ville, en partenariat avec la cellule Biodiversité de la Communauté d’agglomération et l’association b.a-BA...]]></content>
     </entry>
     <entry>
@@ -163,26 +181,7 @@ Balade urbaine (Vauréal - à venir)]]></title>
 Le Jardin école de Vauréal (Vauréal - à venir)]]></title>
         <id>https://www.vaureal.fr/nature-en-ville/parcs-et-jardins/le-jardin-ecole-de-vaureal</id>
         <link href="https://www.vaureal.fr/nature-en-ville/parcs-et-jardins/le-jardin-ecole-de-vaureal"/>
-        <updated>2021-08-23T11:42:51.393Z</updated>
+        <updated>2021-08-23T11:42:51.360Z</updated>
         <content type="html"><![CDATA[Reprise du jardin école porté par la Ville, en partenariat avec la cellule Biodiversité de la Communauté d’agglomération et l’association b.a-BA...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 oct
-
-Louise Jallu (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/louise-jallu</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/louise-jallu"/>
-        <updated>2021-08-23T11:42:51.395Z</updated>
-        <content type="html"><![CDATA[Le Festival valdoisien JAZZ AU FIL DE L'OISE vous donne rendez-vous pour une nouvelle édition du 8 octobre au 17 décembre. Authentique révélation du tango moderne, LOUISE JALLU, sera en concert à L’Antarès pour des reprises du compositeur et bandonéoniste argentin Astor Piazzolla.<br>
-&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 oct
-
-Sortie champignons (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/sortie-champignons</id>
-        <link href="https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/sortie-champignons"/>
-        <updated>2021-08-23T11:42:51.397Z</updated>
-        <content type="html"><![CDATA[Sortie dans la forêt de Boisemont&nbsp;à la découverte des champignons avec la Maison de la Nature.]]></content>
     </entry>
 </feed>
