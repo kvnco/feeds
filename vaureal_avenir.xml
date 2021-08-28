@@ -2,18 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vaureal.fr/agenda/a-venir</id>
     <title>Vauréal - à venir</title>
-    <updated>2021-08-25T05:37:21.318Z</updated>
+    <updated>2021-08-28T05:37:31.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.vaureal.fr/agenda/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[26 aoû
-
-Fouilles archéologiques]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/fouilles-archeologiques</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/fouilles-archeologiques"/>
-        <updated>2021-08-23T11:42:51.355Z</updated>
-        <content type="html"><![CDATA[Du 16 août au 3 septembre, le Service départemental d’archéologique du Val d’Oise (SDAVO) organise de nouvelles fouilles sur le site néolithique de l’Allée couverte. Deux temps de rencontre avec les archéologues sont proposés sur le site les&nbsp;jeudi 26 août et&nbsp;mercredi 1er septembre.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[28 aoû
 
@@ -75,7 +66,7 @@ Gratiféria : réunion de préparation]]></title>
         <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/gratiferia-reunion-de-preparation</id>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/gratiferia-reunion-de-preparation"/>
         <updated>2021-08-25T05:37:20.677Z</updated>
-        <content type="html"><![CDATA[La prochaine Gratiféria, marché 100 % gratuit où chacun peut donner ce qu'il souhaite et/ou s'approprier ce qu'il veut (la seule monnaie acceptée est le sourire) aura lieu le 27 novembre prochain. Si vous souhaitez participer à cet événement, rendez-vous à la réunion de préparation le 7 septembre pour échanger nos idées !]]></content>
+        <content type="html"><![CDATA[La 5e édition de la Gratiféria, marché 100 % gratuit où chacun peut donner ce qu'il souhaite et/ou s'approprier ce qu'il veut (la seule monnaie acceptée est le sourire) aura lieu le 27 novembre prochain. Si vous souhaitez vous joindre à l'organisation en tant que bénévole, une réunion de préparation avec l'ensemble des partenaires se tiendra le 7 septembre.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[08 sep
@@ -184,5 +175,14 @@ Le Jardin école de Vauréal]]></title>
         <link href="https://www.vaureal.fr/nature-en-ville/parcs-et-jardins/le-jardin-ecole-de-vaureal"/>
         <updated>2021-08-23T11:42:51.360Z</updated>
         <content type="html"><![CDATA[Reprise du jardin école porté par la Ville, en partenariat avec la cellule Biodiversité de la Communauté d’agglomération et l’association b.a-BA...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[09 oct
+
+Nouveaux habitants]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/nouveaux-habitants</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/nouveaux-habitants"/>
+        <updated>2021-08-28T05:37:31.119Z</updated>
+        <content type="html"><![CDATA[L'équipe municipale prête une attention toute particulière à l'accueil des nouveaux arrivants sur la commune. Plusieurs fois par an, une matinée de découverte est organisée en leur honneur. Une occasion pour les nouveaux Vauréaliens de rencontrer le Maire et les élus, de se renseigner sur les services et les équipements municipaux...]]></content>
     </entry>
 </feed>
