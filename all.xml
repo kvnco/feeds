@@ -2,17 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvnco.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-28T05:37:31.844Z</updated>
+    <updated>2021-08-29T17:42:11.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[28 aoû
-
-Contes interactifs (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/contes-interactifs</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/contes-interactifs"/>
-        <updated>2021-08-23T11:42:51.357Z</updated>
-        <content type="html"><![CDATA[La compagnie des 3 Coups L'Œuvre vous propose de (re)découvrir des contes traditionnels autrement...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[01 sep
 
@@ -97,20 +88,20 @@ Le Jardin école de Vauréal (Vauréal - à venir)]]></title>
     <entry>
         <title type="html"><![CDATA[18 sep
 
-Concert orchestre symphonique (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/concert-orchestre-symphonique</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/concert-orchestre-symphonique"/>
-        <updated>2021-08-23T11:42:51.376Z</updated>
-        <content type="html"><![CDATA[Dans le cadre des 38e Journées européennes du Patrimoine, l’orchestre symphonique de l’École municipale de Musique de Vauréal vous propose un concert à l’église Notre-Dame de l’Assomption au village autour des musiques de Vladimir Cosma, Francesco Sartoni, Ludvig von Beethoven…]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 sep
-
 World CleanUp Day (Vauréal - à venir)]]></title>
         <id>https://www.vaureal.fr/nature-en-ville/world-cleanup-day</id>
         <link href="https://www.vaureal.fr/nature-en-ville/world-cleanup-day"/>
         <updated>2021-08-23T11:42:51.378Z</updated>
         <content type="html"><![CDATA[Le World CleanUp Day, c’est la journée mondiale du nettoyage de notre planète. Un mouvement citoyen et solidaire pour lutter contre les déchets sauvages. Il s’agit d’organiser localement et partout dans le monde des opérations de nettoyage le même jour, le 18 septembre 2021.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 sep
+
+Concert orchestre symphonique (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/concert-orchestre-symphonique</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/concert-orchestre-symphonique"/>
+        <updated>2021-08-23T11:42:51.376Z</updated>
+        <content type="html"><![CDATA[Dans le cadre des 38e Journées européennes du Patrimoine, l’orchestre symphonique de l’École municipale de Musique de Vauréal vous propose un concert à l’église Notre-Dame de l’Assomption au village autour des musiques de Vladimir Cosma, Francesco Sartoni, Ludvig von Beethoven…]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[24 sep
@@ -183,5 +174,15 @@ Nouveaux habitants (Vauréal - à venir)]]></title>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/nouveaux-habitants"/>
         <updated>2021-08-28T05:37:31.119Z</updated>
         <content type="html"><![CDATA[L'équipe municipale prête une attention toute particulière à l'accueil des nouveaux arrivants sur la commune. Plusieurs fois par an, une matinée de découverte est organisée en leur honneur. Une occasion pour les nouveaux Vauréaliens de rencontrer le Maire et les élus, de se renseigner sur les services et les équipements municipaux...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 oct
+
+Louise Jallu (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/louise-jallu</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/louise-jallu"/>
+        <updated>2021-08-29T17:42:10.476Z</updated>
+        <content type="html"><![CDATA[Le Festival valdoisien JAZZ AU FIL DE L'OISE vous donne rendez-vous pour une nouvelle édition du 8 octobre au 17 décembre. Authentique révélation du tango moderne, LOUISE JALLU, sera en concert à L’Antarès pour des reprises du compositeur et bandonéoniste argentin Astor Piazzolla.<br>
+&nbsp;]]></content>
     </entry>
 </feed>
