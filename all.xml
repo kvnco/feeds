@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvnco.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-01T17:43:53.143Z</updated>
+    <updated>2021-09-02T05:37:25.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[01 sep
+        <title type="html"><![CDATA[04 sep
 
-Fouilles archéologiques (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/fouilles-archeologiques</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/fouilles-archeologiques"/>
-        <updated>2021-08-23T11:42:51.355Z</updated>
-        <content type="html"><![CDATA[Du 16 août au 3 septembre, le Service départemental d’archéologie du Val d’Oise (SDAVO) organise de nouvelles fouilles sur le site néolithique de l’Allée couverte. Deux temps de rencontre avec les archéologues sont proposés sur le site les&nbsp;jeudi 26 août et&nbsp;mercredi 1er septembre.]]></content>
+Petit déjeuner citoyen (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/petit-dejeuner-citoyen</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/petit-dejeuner-citoyen"/>
+        <updated>2021-08-25T05:37:20.665Z</updated>
+        <content type="html"><![CDATA[Le service Démocratie participative vous donne rendez-vous autour d’un petit déjeuner pour vous présenter l’ensemble de ses animations.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[04 sep
@@ -21,15 +21,6 @@ Le Jardin école de Vauréal (Vauréal - à venir)]]></title>
         <link href="https://www.vaureal.fr/nature-en-ville/parcs-et-jardins/le-jardin-ecole-de-vaureal"/>
         <updated>2021-08-23T11:42:51.360Z</updated>
         <content type="html"><![CDATA[Reprise du jardin école porté par la Ville, en partenariat avec la cellule Biodiversité de la Communauté d’agglomération et l’association b.a-BA...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[04 sep
-
-Petit déjeuner citoyen (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/petit-dejeuner-citoyen</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/petit-dejeuner-citoyen"/>
-        <updated>2021-08-25T05:37:20.665Z</updated>
-        <content type="html"><![CDATA[Le service Démocratie participative vous donne rendez-vous autour d’un petit déjeuner pour vous présenter l’ensemble de ses animations.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[04 sep
@@ -184,5 +175,14 @@ Louise Jallu (Vauréal - à venir)]]></title>
         <updated>2021-08-29T17:42:10.476Z</updated>
         <content type="html"><![CDATA[Le Festival valdoisien JAZZ AU FIL DE L'OISE vous donne rendez-vous pour une nouvelle édition du 8 octobre au 17 décembre. Authentique révélation du tango moderne, LOUISE JALLU, sera en concert à L’Antarès pour des reprises du compositeur et bandonéoniste argentin Astor Piazzolla.<br>
 &nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17 oct
+
+Sortie champignons (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/sortie-champignons</id>
+        <link href="https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/sortie-champignons"/>
+        <updated>2021-09-02T05:37:24.864Z</updated>
+        <content type="html"><![CDATA[Sortie dans la forêt de Boisemont&nbsp;à la découverte des champignons avec la Maison de la Nature.]]></content>
     </entry>
 </feed>
