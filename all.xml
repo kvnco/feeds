@@ -2,26 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvnco.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-06T17:43:28.281Z</updated>
+    <updated>2021-09-08T17:44:32.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[07 sep
-
-Don du sang (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/don-du-sang</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/don-du-sang"/>
-        <updated>2021-08-23T11:42:51.366Z</updated>
-        <content type="html"><![CDATA[L'Etablissement Français du Sang (EFS) organise une nouvelle collecte de sang, un acte généreux, solidaire et bénévole qui permet de soigner plus d'un million de malades chaque année en France.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[07 sep
-
-Gratiféria : réunion de préparation (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/gratiferia-reunion-de-preparation</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/gratiferia-reunion-de-preparation"/>
-        <updated>2021-08-25T05:37:20.677Z</updated>
-        <content type="html"><![CDATA[La 5e édition de la Gratiféria, marché 100 % gratuit où chacun peut donner ce qu'il souhaite et/ou s'approprier ce qu'il veut (la seule monnaie acceptée est le sourire) aura lieu le 27 novembre prochain. Si vous souhaitez vous joindre à l'organisation en tant que bénévole, une réunion de préparation avec l'ensemble des partenaires se tiendra le 7 septembre.]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[08 sep
 
@@ -48,6 +30,17 @@ Le Jardin école de Vauréal (Vauréal - à venir)]]></title>
         <link href="https://www.vaureal.fr/nature-en-ville/parcs-et-jardins/le-jardin-ecole-de-vaureal"/>
         <updated>2021-08-23T11:42:51.360Z</updated>
         <content type="html"><![CDATA[Reprise du jardin école porté par la Ville, en partenariat avec la cellule Biodiversité de la Communauté d’agglomération et l’association b.a-BA...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 sep
+ - 18 sep
+
+Journées Portes Ouvertes du Forum (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/journees-portes-ouvertes-du-forum</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/journees-portes-ouvertes-du-forum"/>
+        <updated>2021-09-08T17:44:32.144Z</updated>
+        <content type="html"><![CDATA[Le Forum de Vauréal organise une Journée Portes Ouvertes gratuite le samedi 18 septembre dans le cadre des Journées Européennes du Patrimoine 2021 !<br>
+&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[18 sep
@@ -138,6 +131,15 @@ Nouveaux habitants (Vauréal - à venir)]]></title>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/nouveaux-habitants"/>
         <updated>2021-08-28T05:37:31.119Z</updated>
         <content type="html"><![CDATA[L'équipe municipale prête une attention toute particulière à l'accueil des nouveaux arrivants sur la commune. Plusieurs fois par an, une matinée de découverte est organisée en leur honneur. Une occasion pour les nouveaux Vauréaliens de rencontrer le Maire et les élus, de se renseigner sur les services et les équipements municipaux...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 oct
+
+Des livres et vous ! (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
+        <updated>2021-09-08T17:44:32.184Z</updated>
+        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[15 oct
