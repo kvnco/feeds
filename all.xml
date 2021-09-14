@@ -2,16 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvnco.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-10T05:37:37.254Z</updated>
+    <updated>2021-09-14T17:42:44.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[11 sep
+        <title type="html"><![CDATA[18 sep
+ - 19 sep
 
-Salon des Associations (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/salon-des-associations</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/salon-des-associations"/>
-        <updated>2021-08-23T11:42:51.371Z</updated>
-        <content type="html"><![CDATA[C'est probablement le rendez-vous phare du mois après la rentrée scolaire... Le Salon des&nbsp;associations se déroulera le samedi 11 septembre de 10h à 17h&nbsp;aux Toupets (Gymnase et extérieur) dans le respect des conditions sanitaires. Une occasion pour tous de découvrir&nbsp;toutes les activités proposées sur la ville et d’organiser son temps&nbsp;libre pour l’année à venir.&nbsp;]]></content>
+Journées européennes du patrimoine (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/journees-europeennes-du-patrimoine</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/journees-europeennes-du-patrimoine"/>
+        <updated>2021-09-14T17:42:43.723Z</updated>
+        <content type="html"><![CDATA[Les 38e Journées européennes du patrimoine auront lieu les 18 et 19 septembre autour du thème "Patrimoine pour tous". Une occasion le temps d’un week-end de célébrer partout en France la beauté et la richesse de notre patrimoine national.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[18 sep
@@ -24,14 +25,12 @@ Le Jardin école de Vauréal (Vauréal - à venir)]]></title>
     </entry>
     <entry>
         <title type="html"><![CDATA[18 sep
- - 18 sep
 
-Journées Portes Ouvertes du Forum (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/journees-portes-ouvertes-du-forum</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/journees-portes-ouvertes-du-forum"/>
-        <updated>2021-09-08T17:44:32.144Z</updated>
-        <content type="html"><![CDATA[Le Forum de Vauréal organise une Journée Portes Ouvertes gratuite le samedi 18 septembre dans le cadre des Journées Européennes du Patrimoine 2021 !<br>
-&nbsp;]]></content>
+World CleanUp Day (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/nature-en-ville/world-cleanup-day</id>
+        <link href="https://www.vaureal.fr/nature-en-ville/world-cleanup-day"/>
+        <updated>2021-08-23T11:42:51.378Z</updated>
+        <content type="html"><![CDATA[Le World CleanUp Day, c’est la journée mondiale du nettoyage de notre planète. Un mouvement citoyen et solidaire pour lutter contre les déchets sauvages. Il s’agit d’organiser localement et partout dans le monde des opérations de nettoyage le même jour, le 18 septembre 2021.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[18 sep
@@ -45,11 +44,12 @@ Concert orchestre symphonique (Vauréal - à venir)]]></title>
     <entry>
         <title type="html"><![CDATA[18 sep
 
-World CleanUp Day (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/nature-en-ville/world-cleanup-day</id>
-        <link href="https://www.vaureal.fr/nature-en-ville/world-cleanup-day"/>
-        <updated>2021-08-23T11:42:51.378Z</updated>
-        <content type="html"><![CDATA[Le World CleanUp Day, c’est la journée mondiale du nettoyage de notre planète. Un mouvement citoyen et solidaire pour lutter contre les déchets sauvages. Il s’agit d’organiser localement et partout dans le monde des opérations de nettoyage le même jour, le 18 septembre 2021.]]></content>
+Journées Portes Ouvertes du Forum (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/journees-portes-ouvertes-du-forum</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/journees-portes-ouvertes-du-forum"/>
+        <updated>2021-09-08T17:44:32.144Z</updated>
+        <content type="html"><![CDATA[Le Forum de Vauréal organise une Journée Portes Ouvertes gratuite le samedi 18 septembre dans le cadre des Journées Européennes du Patrimoine 2021 !<br>
+&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[24 sep
@@ -135,6 +135,15 @@ Des livres et vous ! (Vauréal - à venir)]]></title>
     <entry>
         <title type="html"><![CDATA[15 oct
 
+A la découverte des rapaces nocturnes (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/la-decouverte-des-rapaces-nocturnes</id>
+        <link href="https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/la-decouverte-des-rapaces-nocturnes"/>
+        <updated>2021-09-14T17:42:43.767Z</updated>
+        <content type="html"><![CDATA[Au départ de la Maison pour Tous, partez en balade nocturne dans le bois de lieux en compagnie d'Eric membre de l’association&nbsp;LPO (Ligue de Protection des Oiseaux)...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 oct
+
 Louise Jallu (Vauréal - à venir)]]></title>
         <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/louise-jallu</id>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/louise-jallu"/>
@@ -177,14 +186,5 @@ Parents mode d'emploi (Vauréal - à venir)]]></title>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/parents-mode-demploi"/>
         <updated>2021-08-23T11:42:51.386Z</updated>
         <content type="html"><![CDATA[Reprise de "Parents mode d’emploi" avec le Conseil citoyen "D'un trottoir à l'autre", des groupes d’échanges autour de la parentalité et d’un repas partagé,&nbsp;destinés à tous...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 déc
-
-Des livres et vous ! (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
-        <updated>2021-09-08T17:44:32.184Z</updated>
-        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
     </entry>
 </feed>
