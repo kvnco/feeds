@@ -2,25 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kvnco.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-08T05:37:50.098Z</updated>
+    <updated>2021-10-13T05:38:13.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[09 oct
+        <title type="html"><![CDATA[01 oct
+ - 30 nov
 
-Nouveaux habitants (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/nouveaux-habitants</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/nouveaux-habitants"/>
-        <updated>2021-08-28T05:37:31.119Z</updated>
-        <content type="html"><![CDATA[L'équipe municipale prête une attention toute particulière à l'accueil des nouveaux arrivants sur la commune. Plusieurs fois par an, une matinée de découverte est organisée en leur honneur. Une occasion pour les nouveaux Vauréaliens de rencontrer le Maire et les élus, de se renseigner sur les services et les équipements municipaux...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 oct
-
-Transhumance d'automne (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/nature-en-ville/transhumance-dautomne</id>
-        <link href="https://www.vaureal.fr/nature-en-ville/transhumance-dautomne"/>
-        <updated>2021-10-08T05:37:49.367Z</updated>
-        <content type="html"><![CDATA[La saison d’éco-pâturage touchant à sa fin, la ferme d’Ecancourt organise le retour des ses moutons lors d’une transhumance ce dimanche 10 octobre.]]></content>
+Mes activités avec le centre socioculturel L'Agora (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/mes-activites-avec-le-centre-socioculturel-lagora</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/mes-activites-avec-le-centre-socioculturel-lagora"/>
+        <updated>2021-10-13T05:38:12.741Z</updated>
+        <content type="html"><![CDATA[Retrouvez toutes les animations, rendez-vous et sorties proposés par l'équipe du centre socioculturel...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[14 oct
@@ -88,6 +80,15 @@ Festival Tout Public ! (Vauréal - à venir)]]></title>
         <content type="html"><![CDATA[Weyland et Compagnie est de retour à Vauréal avec son "Festival Tout Public" ! Une 8e édition mêlant théâtre, improvisation, cirque, musique, marionnettes qui proposera comme chaque année plus d'une quinzaine de spectacles pour les scolaires, les accueils de loisirs, le médico-social et tout public.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[22 oct
+
+Soirée Jeux (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/soiree-jeux</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/soiree-jeux"/>
+        <updated>2021-10-13T05:38:12.753Z</updated>
+        <content type="html"><![CDATA[La Ludothèque vous convie à sa soirée jeux de société.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[23 oct
 
 Ateliers d'art plastique (Vauréal - à venir)]]></title>
@@ -134,6 +135,51 @@ Empreintez-moi (Vauréal - à venir)]]></title>
         <content type="html"><![CDATA[L'association <em>Le Pinceau Mille Pattes</em>&nbsp;propose aux enfants un atelier d'art plastique à la découverte de l'univers de Klein...]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[09 nov
+
+Don du sang (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/don-du-sang</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/don-du-sang"/>
+        <updated>2021-10-13T05:38:12.762Z</updated>
+        <content type="html"><![CDATA[L'Etablissement Français du Sang (EFS) organise une nouvelle collecte de sang, un acte généreux, solidaire et bénévole qui permet de soigner plus d'un million de malades chaque année en France.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 nov
+
+Cérémonie du 11 novembre (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/ceremonie-du-11-novembre</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/ceremonie-du-11-novembre"/>
+        <updated>2021-10-13T05:38:12.762Z</updated>
+        <content type="html"><![CDATA[La commémoration en mémoire du jour de l’armistice de la Première Guerre mondiale aura lieu le jeudi 11 novembre en présence de Madame le Maire et des élus&nbsp;aux Monuments aux morts (Village).]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17 nov
+
+La Petite Sirène (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/la-petite-sirene</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/la-petite-sirene"/>
+        <updated>2021-10-13T05:38:12.765Z</updated>
+        <content type="html"><![CDATA[La compagnie <em>Les 3 Coup l'Œuvre </em>vous propose un spectacle jeune public inspiré du célèbre conte d'Andersen...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19 nov
+
+Nourrir l'humanité (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/nourrir-lhumanite</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/nourrir-lhumanite"/>
+        <updated>2021-10-13T05:38:12.766Z</updated>
+        <content type="html"><![CDATA[Le Festival Théâtral du Val d’Oise reprend sa tournée des villes et villages du département du 9 novembre au 18 décembre. Profitons de la Semaine Européennes de Réduction des Déchets (SERD) pour accueillir&nbsp;« Nourrir l’Humanité » par la compagnie ADOC le vendredi 19 novembre à 20h30 à L’Agora.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27 nov
+
+Vente de livres (Vauréal - à venir)]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/vente-de-livres</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/vente-de-livres"/>
+        <updated>2021-10-13T05:38:12.767Z</updated>
+        <content type="html"><![CDATA[Ventes exceptionnelles des livres retirés des collections de la bibliothèque des Dames Gilles...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[30 nov
 
 Parents mode d'emploi (Vauréal - à venir)]]></title>
@@ -141,41 +187,5 @@ Parents mode d'emploi (Vauréal - à venir)]]></title>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/parents-mode-demploi"/>
         <updated>2021-08-23T11:42:51.386Z</updated>
         <content type="html"><![CDATA[Reprise de "Parents mode d’emploi" avec le Conseil citoyen "D'un trottoir à l'autre", des groupes d’échanges autour de la parentalité et d’un repas partagé,&nbsp;destinés à tous...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 déc
-
-Des livres et vous ! (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
-        <updated>2021-09-08T17:44:32.184Z</updated>
-        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 fév
-
-Des livres et vous ! (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
-        <updated>2021-09-08T17:44:32.184Z</updated>
-        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 avr
-
-Des livres et vous ! (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
-        <updated>2021-09-08T17:44:32.184Z</updated>
-        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 juin
-
-Des livres et vous ! (Vauréal - à venir)]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
-        <updated>2021-09-08T17:44:32.184Z</updated>
-        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
     </entry>
 </feed>
