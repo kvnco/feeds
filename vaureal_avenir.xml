@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vaureal.fr/agenda/a-venir</id>
     <title>Vauréal - à venir</title>
-    <updated>2021-10-14T17:44:36.410Z</updated>
+    <updated>2021-10-16T05:37:38.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.vaureal.fr/agenda/favicon.ico</icon>
     <entry>
@@ -14,43 +14,6 @@ Mes activités avec le centre socioculturel L'Agora]]></title>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/mes-activites-avec-le-centre-socioculturel-lagora"/>
         <updated>2021-10-13T05:38:12.741Z</updated>
         <content type="html"><![CDATA[Retrouvez toutes les animations, rendez-vous et sorties proposés par l'équipe du centre socioculturel...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14 oct
-
-Ciné-Rencontre]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/cine-rencontre</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/cine-rencontre"/>
-        <updated>2021-10-08T05:37:49.369Z</updated>
-        <content type="html"><![CDATA[Venez découvrir le documentaire événement J'AI AIMÉ VIVRE LÀ et échanger avec le réalisateur Régis Sauder et Elise Garcia, membre de l'association La Ruche et coordinatrice du collectif Cergyssois La Lanterne.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 oct
-
-Des livres et vous !]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
-        <updated>2021-09-08T17:44:32.184Z</updated>
-        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 oct
-
-A la découverte des rapaces nocturnes]]></title>
-        <id>https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/la-decouverte-des-rapaces-nocturnes</id>
-        <link href="https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/la-decouverte-des-rapaces-nocturnes"/>
-        <updated>2021-09-14T17:42:43.767Z</updated>
-        <content type="html"><![CDATA[Au départ de la Maison pour Tous, partez en balade nocturne dans le bois de lieux en compagnie d'Eric membre de l’association&nbsp;LPO (Ligue de Protection des Oiseaux)...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 oct
-
-Louise Jallu]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/louise-jallu</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/louise-jallu"/>
-        <updated>2021-08-29T17:42:10.476Z</updated>
-        <content type="html"><![CDATA[Le Festival valdoisien JAZZ AU FIL DE L'OISE vous donne rendez-vous pour une nouvelle édition du 8 octobre au 17 décembre. Authentique révélation du tango moderne, LOUISE JALLU, sera en concert à L’Antarès pour des reprises du compositeur et bandonéoniste argentin Astor Piazzolla.<br>
-&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[16 oct
@@ -188,5 +151,41 @@ Parents mode d'emploi]]></title>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/parents-mode-demploi"/>
         <updated>2021-08-23T11:42:51.386Z</updated>
         <content type="html"><![CDATA[Reprise de "Parents mode d’emploi" avec le Conseil citoyen "D'un trottoir à l'autre", des groupes d’échanges autour de la parentalité et d’un repas partagé,&nbsp;destinés à tous...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 déc
+
+Des livres et vous !]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
+        <updated>2021-09-08T17:44:32.184Z</updated>
+        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 fév
+
+Des livres et vous !]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
+        <updated>2021-09-08T17:44:32.184Z</updated>
+        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 avr
+
+Des livres et vous !]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
+        <updated>2021-09-08T17:44:32.184Z</updated>
+        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 juin
+
+Des livres et vous !]]></title>
+        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous</id>
+        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/des-livres-et-vous"/>
+        <updated>2021-09-08T17:44:32.184Z</updated>
+        <content type="html"><![CDATA[Envie de partager vos lectures ? Envie de découvrir de nouveaux auteurs ou de nouveaux genres littéraires ? Rejoignez le club lecture adultes de la Bibliothèque des Dames Gilles.]]></content>
     </entry>
 </feed>
