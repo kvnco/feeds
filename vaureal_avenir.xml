@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vaureal.fr/agenda/a-venir</id>
     <title>Vauréal - à venir</title>
-    <updated>2021-10-16T05:37:38.495Z</updated>
+    <updated>2021-10-20T05:37:49.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.vaureal.fr/agenda/favicon.ico</icon>
     <entry>
@@ -14,24 +14,6 @@ Mes activités avec le centre socioculturel L'Agora]]></title>
         <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/mes-activites-avec-le-centre-socioculturel-lagora"/>
         <updated>2021-10-13T05:38:12.741Z</updated>
         <content type="html"><![CDATA[Retrouvez toutes les animations, rendez-vous et sorties proposés par l'équipe du centre socioculturel...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16 oct
-
-Couleurs !]]></title>
-        <id>https://www.vaureal.fr/ca-bouge/agenda-des-sorties/couleurs</id>
-        <link href="https://www.vaureal.fr/ca-bouge/agenda-des-sorties/couleurs"/>
-        <updated>2021-10-08T05:37:49.379Z</updated>
-        <content type="html"><![CDATA[La compagnie Arts Essentiels invite les jeunes enfants à un spectacle de théâtre gestuel, burlesque et poétique...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 oct
-
-Sortie champignons]]></title>
-        <id>https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/sortie-champignons</id>
-        <link href="https://www.vaureal.fr/nature-en-ville/maison-de-la-nature/sortie-champignons"/>
-        <updated>2021-09-02T05:37:24.864Z</updated>
-        <content type="html"><![CDATA[Sortie dans la forêt de Boisemont&nbsp;à la découverte des champignons avec la Maison de la Nature.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20 oct
